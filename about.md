@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Timothy Wang, but you might recognize me by the usernames I use on most websites — `TimothyW553`, `Kuais`, or even `CurrentlyKuais`.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a Computer Science student at the University of Waterloo, class of 2026.
 
-
-[jekyll-organization]: https://github.com/jekyll
+During my time in high school, I spent a lot of time on competitive programming and software development. You can check out my GitHub in the footer below to check out some of the projects I've made over the years.
