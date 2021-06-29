@@ -24,7 +24,8 @@ github_username:  TimothyW553
 
 # Build settings
 markdown: kramdown
-theme: minima
+# Removed minima theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
