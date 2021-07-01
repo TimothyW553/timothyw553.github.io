@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows Terminal Multiple Line Paste Warninng"
+title:  "Windows Terminal Multiple Line Paste Warning"
 date:   2021-07-01 00:08:00 -0400
 categories: windows terminal
 ---
@@ -21,5 +21,8 @@ So, one simple way of fixing this is to go to the top of your Windows Terminal, 
     "multiLinePasteWarning": false,
 {% endhighlight %}
 
-今天就讲到这,
-Timothy
+And that's pretty much it! This was a pretty simple blog post about a pretty trivial thing you could've found on some GitHub discussion page, but it's all good. 
+
+So, 今天就讲到这,
+
+Timothy Wang
