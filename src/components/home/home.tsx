@@ -19,7 +19,7 @@ export default function Home() {
           <hr className="border-t-1 border-gray-300" />
           <ul className="list-disc pl-7 py-[10px]">
             <li className="whitespace-nowrap">
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> X (Twitter)</a>, Product Recommendations: January 2025 — April 2025
+              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> 𝕏</a>, Product Recommendations: January 2025 — April 2025
             </li>
             <li className="whitespace-nowrap">
               <a href="https://databricks.com/" target="_blank" rel="noopener noreferrer"> Databricks</a>, Default Storage: May 2024 — August 2024
